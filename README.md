@@ -1,33 +1,21 @@
-<h1 align="center">Regex Comp Science BreakDown</h1> ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
+<h1 align="center">Regex Comp Science BreakDown</h1>
+<p align='center'> By: Jacob Dupea
+  
+![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <h2 align="center">Description</h2>
 My gist is a breakdown of what a reggular expression is. I breakdown the regular expression for validating an email address.
-## Table of Contents
 
-- [Installation](##installation)
-- [Usage](##usage)
-- [Credits](##credits)
-- [License](##license)
-
-<h2 align="center"> Installation</h2>
-
-steps required
-
-
-<h2 align="center">Photos</h2>
-<img src="assets/photos/.PNG" alt="screenshot" width="75%" height="75%">
-
+  
 <h2 align="center">Usage</h2>
 Help new developers get a understading of what a regex is and breakdown an example for demonstration.
-
-<h2 align="center">Credits</h2>
-
 
 <h2 align="center">License</h2>
 refer to repo for licenses
 license is a MIT license.
 
 <h2 align="center">Badges</h2>
+
 ![badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <h2 align="center">Features</h2>
